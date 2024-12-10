@@ -1,0 +1,9 @@
+-------Results for TableVI and Table VII
+	wcspdabsc	wcspdrelac	wcaodabsc	wcaodrelac	wceodabsc	wceodrelac	acspdabsc	acspdrelac	acaodabsc	acaodrelac	aceodabsc	aceodrelac
+fairhome	-0.209	-44.1%	-0.197	-44.4%	-0.168	-48.4%	-0.078	-45.6%	-0.069	-46.4%	-0.066	-53.6%
+fairhome4	-0.116	-24.4%	-0.115	-25.9%	-0.113	-32.5%	-0.050	-29.2%	-0.047	-31.6%	-0.044	-36.0%
+fairhome5	-0.209	-44.2%	-0.185	-41.8%	-0.149	-42.9%	-0.080	-46.9%	-0.070	-46.6%	-0.063	-51.7%
+	win-win	good	poor	inverted	lose-lose
+fairhome	0.197500	0.801667	0.000833	0.000000	0.000000
+fairhome4	0.410000	0.554583	0.022917	0.005000	0.007500
+fairhome5	0.117500	0.865417	0.017083	0.000000	0.000000
